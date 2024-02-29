@@ -1,0 +1,1 @@
+const cris = document.querySelectorAll("button");
