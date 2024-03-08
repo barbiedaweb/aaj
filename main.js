@@ -8,6 +8,6 @@ while(nome_Usuario == '' ){ // || nome_Usuario == null
 if(nome_Usuario == null){
 texto.textContent = 'usuário';
 }else{
-texto.textContent = nome_Usuario;
+texto.textContent = nome_Usuario; 
 }
 
