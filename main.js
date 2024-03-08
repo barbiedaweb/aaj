@@ -1,1 +1,1 @@
-const cris = document.querySelectorAll("button");
+prompt('Qual é o seu nome?');
