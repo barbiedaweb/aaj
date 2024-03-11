@@ -7,4 +7,4 @@ if(numeroSecreto == chute){
 } else{
     alert('Que triste, você errou :(');
 }
-}
+
