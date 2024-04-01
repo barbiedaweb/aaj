@@ -1,4 +1,4 @@
-const botoes = document.querySelectorAll('.objetivos')
+const botoes = document.querySelectorAll('.objetivos');
 console.log(botoes.length);
 
 let i = 0;
