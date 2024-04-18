@@ -15,3 +15,6 @@ for (let j = 0; j < botoes.length; j++) {
     }
 }
 
+const contadores= document.querySelectorAll('.contador');
+
+contadores[0].textContent = "oi, tudo bem?";
